@@ -6,7 +6,9 @@ References:
 
 [Link](https://www.linkedin.com/learning/python-for-data-science-essential-training-part-1/introduction-to-the-data-professions)
 
-## Four Flavor of Data Science
+## Intro
+
+### Four Flavor of Data Science
 
 1. Data analysis
    - Data analysis is a process for making sense of data
@@ -23,6 +25,38 @@ References:
 4. Deep Learning
    - Deep learning is a set of predictive mthodologies that borrows its strucvture from the neural network structures of the brain. This class of method is particularly effective for making predictions from big data
    - Deep learning is sub-field within data science, and it can be used as a decision model with application to produces deep learning AI
+
+### Main Python Libraries
+
+Advanced data analysis
+
+- Numpy
+- SciPy
+- pandas
+
+Data Visualization
+
+- Matplotlib
+- Seaborn
+
+Machine Learning
+
+- Scikit-learn
+- TensorFlow
+- Keras
+
+
+
+## Data Preparation
+
+### pandas
+
+fast data cleaning, preparation, and analysis. Easy to use data visualization and machine learning
+
+Built on top of NumPy (array, and matrices)
+
+1. **Indexing**
+   - An index is a list of integers or labels you use to uniquely identify rows or columns
 
 
 
